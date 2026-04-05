@@ -15,4 +15,12 @@ const staff = [
         github: "SerenaaaaRN",
         foto:"",
     },
+      {
+        name: "Alfinandra Rashyid Pratama",
+        division: "PIP",
+        batch: "2026",
+        role: "Member",
+        github: "lilkyogre03-netizen",
+        foto:"",
+    },
 ];
