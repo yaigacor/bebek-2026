@@ -72,6 +72,14 @@ const staff = [
         foto:"",
     },
     {
+        name: "M Radittyo Kalin",
+        division: "PTI",
+        batch: "2026",
+        role: "Member",
+        github: "raditkal",
+        foto:"",
+    },
+    {
         name: "Noufal Izdihar",
         division: "PIP",
         batch: "2026",
