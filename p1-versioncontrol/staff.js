@@ -53,7 +53,7 @@ const staff = [
         batch: "2026",
         role: "Member",
         github: "Urielele",
-        foto:"foto/beemo.png",
+        foto:"foto/beemo.jpg",
     },
     {
 
@@ -62,6 +62,7 @@ const staff = [
         batch: "2026",
         role: "Member",
         github: "tegarprasety0",
+        foto: "foto/tegar.png"
     },
     {
         name: "M.Farrel Rizqierli Fairuz",
